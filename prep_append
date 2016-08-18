@@ -1,0 +1,2 @@
+python3 /usr/share/java-utils/pom_editor.py pom_remove_plugin  :maven-release-plugin
+python3 /usr/share/java-utils/mvn_file.py : plexus/interpolation
