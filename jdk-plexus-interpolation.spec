@@ -4,7 +4,7 @@
 #
 Name     : jdk-plexus-interpolation
 Version  : 1.22
-Release  : 1
+Release  : 2
 URL      : https://github.com/sonatype/plexus-interpolation/archive/plexus-interpolation-1.22.tar.gz
 Source0  : https://github.com/sonatype/plexus-interpolation/archive/plexus-interpolation-1.22.tar.gz
 Summary  : No detailed summary available
